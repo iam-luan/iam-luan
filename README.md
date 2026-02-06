@@ -1,4 +1,6 @@
 About me
+
+
 🌎 Moro em São Paulo (SP) - Brasil
 📩 E-mail para contato: luanoliveira.davi@gmail.com
 🧠 Atualmente estou estudando: Java, SpringBoot, Kafka e Kotlin.
