@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me<br>🌎 Moro em São Paulo (SP) - Brasil<br>📩 E-mail para contato: luanoliveira.davi@gmail.com<br>🔭 Para aprimorar meus conhecimentos em Engenharia de Software.<br>🐧 Gosto de esportes, musica e video games.<br>logotipo do linkedin: in/luan-alcântara-162aa8285/</h2>
+<h2 align="left">About me<br>🌎 Moro em São Paulo (SP) - Brasil<br>📩 E-mail para contato: luanoliveira.davi@gmail.com<br>🧠 Atualmente estou estudando: Java, SpringBoot, Kafka e Kotlin.<br>🔭 Para aprimorar meus conhecimentos em Engenharia de Software.<br>🐧 Gosto de esportes, musica e video games.<br>logotipo do linkedin: in/luan-alcântara-162aa8285/</h2>
 
 ###
 
