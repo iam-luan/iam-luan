@@ -2,7 +2,7 @@
 
 ###
 
-My name is Luan and I'm a Software Engineer from Synergie Consulting
+My name is Luan and I'm a Software Engineer 
 
 ###
 
